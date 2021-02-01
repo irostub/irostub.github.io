@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -69,8 +69,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter                  : "https://twitter.com/irostub_t"
-  username               : "@irostub_t"
+twitter                  :
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "irostub"
-  avatar           : "/assets/images/avatar.jpg"
-  bio              : "더 좋은 품질의 코드, 더 유려한 설계 그것이 제 즐거움입니다.<br>트렌드에 올라서기 위해 매일같이 공부합니다."
+  avatar           : "/assets/images/avatar.png"
+  bio              : "좋은 품질의 코드,<br>유려한 설계 그것이 제 즐거움입니다.<br>트렌드에 올라타기 위해 매일같이 공부합니다."
   location         : "Seoul, Republic of Korea"
-  email            : "irostub@gmail.com"
+  email            : #"irostub@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
