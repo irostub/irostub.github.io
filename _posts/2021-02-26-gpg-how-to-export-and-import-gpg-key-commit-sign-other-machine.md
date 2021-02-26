@@ -9,6 +9,9 @@ tags:
   - export
   - mac
 category: information
+toc: true
+toc_sticky: true
+toc_label: "목차"
 ---
 
 # GPG Key를 복사하여 옮기기
