@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "ko-KR"
-title: "backend developer blog"
+title: "developer irostub"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "irostub"
@@ -94,7 +94,7 @@ analytics:
 author:
   name: "irostub"
   avatar: "/assets/images/avatar.png"
-  bio: "좋은 품질의 코드,<br>유려한 설계 그것이 제 즐거움입니다.<br>트렌드에 올라타기 위해 매일같이 공부합니다."
+  bio: "안녕하세요. 공부하는 개발자 irostub 입니다.<br>더 효과적인, 더 효율적인 코드를 짜는 것을 항상 고민하고 즐깁니다."
   location: "Seoul, Republic of Korea"
   email: #"irostub@gmail.com"
   links:
