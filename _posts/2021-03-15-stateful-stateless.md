@@ -1,6 +1,6 @@
 ---
 title: Stateful과 Stateless의 이해
-category: Web
+category: web
 tags:
   - web
   - HTTP
