@@ -8,6 +8,8 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "과정"
+canonical_url: "https://roxy.iro.ooo/irostub/2021/03/15/stateful-stateless"
+redirect_to: https://roxy.iro.ooo/irostub/2021/03/15/stateful-stateless
 ---
 
 # Stateful 과 Stateless 의 차이

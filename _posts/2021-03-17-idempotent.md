@@ -7,6 +7,8 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "목차"
+canonical_url: "https://roxy.iro.ooo/irostub/2021/03/17/idempotent"
+redirect_to: https://roxy.iro.ooo/irostub/2021/03/17/idempotent
 ---
 
 # HTTP 메서드의 속성, 멱등(Idempotent)이란?

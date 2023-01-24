@@ -6,6 +6,8 @@ tags:
   - intellij
   - OAuth
   - organizations
+canonical_url: "https://roxy.iro.ooo/irostub/2021/03/02/github-organization-oauth"
+redirect_to: https://roxy.iro.ooo/irostub/2021/03/02/github-organization-oauth
 ---
 
 ## github에서 타사 앱 OAuth 권한을 주자

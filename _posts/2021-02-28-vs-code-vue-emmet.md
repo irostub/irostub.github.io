@@ -8,6 +8,8 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "목차"
+canonical_url: "https://roxy.iro.ooo/irostub/2021/02/28/vscode-vue-emmet"
+redirect_to: https://roxy.iro.ooo/irostub/2021/02/28/vscode-vue-emmet
 ---
 
 # .Vue 에서 HTML의 자동완성 기능(Emmet)을 사용
