@@ -1,1 +1,1 @@
-# https://rainbow-flavor.tistory.com/ 로 블로그를 이전합니다.
+# https://roxy.iro.ooo/ 로 블로그를 이전합니다.
