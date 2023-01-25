@@ -7,8 +7,8 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "목차"
-canonical_url: "https://roxy.iro.ooo/irostub/2021/03/18/java-static-stack-heap"
-redirect_to: https://roxy.iro.ooo/irostub/2021/03/18/java-static-stack-heap
+canonical_url: "https://roxy.iro.ooo/back/java/java-static-stack-heap"
+redirect_to: https://roxy.iro.ooo/back/java/java-static-stack-heap
 ---
 
 # JAVA 메모리 영역의 이해

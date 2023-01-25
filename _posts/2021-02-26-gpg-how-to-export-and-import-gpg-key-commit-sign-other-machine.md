@@ -12,8 +12,8 @@ category: information
 toc: true
 toc_sticky: true
 toc_label: "목차"
-canonical_url: "https://roxy.iro.ooo/irostub/2021/02/26/gpg-copy-to-other-machine"
-redirect_to: https://roxy.iro.ooo/irostub/2021/02/26/gpg-copy-to-other-machine
+canonical_url: "https://roxy.iro.ooo/tips/gpg-copy-to-other-machine"
+redirect_to: https://roxy.iro.ooo/tips/gpg-copy-to-other-machine
 ---
 
 # GPG Key를 복사하여 옮기기
